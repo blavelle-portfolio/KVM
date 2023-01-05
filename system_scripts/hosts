@@ -2,9 +2,9 @@
 127.0.1.1	lappy
 10.1.10.60	nas.ch
 10.1.10.93 	esxi01.ch
-10.1.10.7	esxi02.ch
+10.1.10.7	  esxi02.ch
 10.1.10.85	vcenter.ch
-
+10.1.10.248 winlap01
 
 # The following lines are desirable for IPv6 capable hosts
 ::1     ip6-localhost ip6-loopback
